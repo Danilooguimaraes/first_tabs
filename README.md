@@ -1,0 +1,2 @@
+# mycode
+códigos para estudos
